@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-//@Controller    将该类交给IOC管理
+//@Controller    将该类交给IOC管理 ...
 //@ResponseBody  直接将返回的数据result转成JSON格式
 //@RestController = @Controller + @ResponseBody
 @RestController
